@@ -19,9 +19,7 @@ This pipeline is designed for working with Affymetrix microarray data. It proces
 
 ### Key Analyses Performed:
 - Data normalization using MAS 5.0 and RMA.
-- Quality control using GAPDH 3'/5' ratios and other metrics.
 - Differential gene expression (DGE) analysis with S-Score and limma.
-- Paired and independent sample analysis.
 
 ---
 
